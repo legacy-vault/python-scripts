@@ -7,7 +7,7 @@
 #
 # Description:
 #
-# Copies all Files with allowed Extensions from the Folder and its SubFlders
+# Copies all Files with allowed Extensions from the Folder and its SubFolders
 # to a destination Folder, indexing them as 1, 2, 3, ... saving original File
 # Extension. 
 #
