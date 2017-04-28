@@ -1,4 +1,21 @@
-#!/usr/bin/python
+#
+# img_unite_index_copy.py
+#
+# Version: 1.0.
+# Created: 2017-04-28.
+# Author: McArcher.
+#
+# Description:
+#
+# Copies all Files with allowed Extensions from the Folder and its SubFlders
+# to a destination Folder, indexing them as 1, 2, 3, ... saving original File
+# Extension. 
+#
+# 
+# Usage:
+# 
+# python3 img_unite_index_copy.py folder_src folder_dst
+#
 
 from pathlib import Path
 from shutil import copyfile
